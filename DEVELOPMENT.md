@@ -21,7 +21,7 @@ Open http://localhost:8000. Stop with Ctrl+C. You can also open `index.html` dir
 | Public writing index | `writing/index.html` |
 | Shared design and mobile layouts | `assets/style.css` |
 
-The header and footer are repeated in each HTML file. When changing navigation or profile links, update all three pages. All internal paths are relative, so the site works at a domain root or a GitHub Pages repository subpath.
+The navigation header is repeated in each HTML file. When changing navigation, update all three pages. Profile links live on Home. All internal paths are relative, so the site works at a domain root or a GitHub Pages repository subpath.
 
 ## Add a public update
 
@@ -38,7 +38,7 @@ Use real dates, replace the example text, and preview before publishing. Keep up
 
 ## Add an article
 
-Create `writing/your-article/index.html`, reuse a page's header/footer and document metadata, and replace its main content with the article. Since the article is two directories deep, use `../../assets/style.css`, `../../assets/favicon.svg`, `../../` for Home, `../../research/` for Research, and `../` for Writing. Give the article its own title, description, heading, and publication date.
+Create `writing/your-article/index.html`, reuse a page's navigation header and document metadata, and replace its main content with the article. Since the article is two directories deep, use `../../assets/style.css`, `../../assets/favicon.svg`, `../../` for Home, `../../research/` for Research, and `../` for Writing. Give the article its own title, description, heading, and publication date.
 
 Replace the empty state in `writing/index.html` with a dated link and short description of the article. No sample articles or invented writing have been published.
 
