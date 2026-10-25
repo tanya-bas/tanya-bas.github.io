@@ -56,7 +56,7 @@ nav a[aria-current='page'] { color: var(--green); text-decoration: underline; te
 .profile-links a, .paper-links a { text-decoration: none; }
 .profile-links a:hover, .paper-links a:hover { text-decoration: underline; }
 .profile-links span, .paper-links span { color: var(--green); margin-left: 4px; }
-.portrait { padding-top: 8px; }
+.portrait { padding-top: 8px; align-self: start; }
 .portrait img { width: 205px; aspect-ratio: 1/1.13; object-fit: cover; border: 6px solid white; border-radius: 3px; box-shadow: 0 3px 15px #27342d0c; }
 .section-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 20px; margin-bottom: 23px; }
 .news-section { border-top: 1px solid var(--line); padding-top: 34px; }

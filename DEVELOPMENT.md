@@ -50,7 +50,7 @@ Commit and push changes to `main` to publish an update. Check the repository’s
 
 ## Content still to personalize
 
-- Current affiliation, specific AI safety focus, and newer public updates.
+- Additional public updates as work develops.
 - Which earlier research to retain or feature.
 - First public essay or research note.
 
