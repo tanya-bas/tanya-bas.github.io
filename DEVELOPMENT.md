@@ -34,7 +34,7 @@ In `index.html`, find `<ol class="timeline">`. Add a new item at the top, using 
 </li>
 ```
 
-Use real dates, replace the example text, and preview before publishing. Keep updates to one or two sentences. The initial entries describe the verified July 2025 UNLP publication and November 2024 gender-bias preprint. They are publication dates, not claims about when an announcement was originally posted.
+Use real dates, replace the example text, and preview before publishing. Keep updates to one or two sentences. The initial entries describe the verified July 2025 UNLP publication and November 2024 gender-bias paper. They are publication dates, not claims about when an announcement was originally posted.
 
 ## Add an article
 
