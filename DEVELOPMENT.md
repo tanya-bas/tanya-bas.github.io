@@ -40,7 +40,7 @@ Use real dates, replace the example text, and preview before publishing. Keep up
 
 Create `writing/your-article/index.html`, reuse a page's navigation header and document metadata, and replace its main content with the article. Since the article is two directories deep, use `../../assets/style.css`, `../../assets/favicon.svg`, `../../` for Home, `../../research/` for Research, and `../` for Writing. Give the article its own title, description, heading, and publication date.
 
-Replace the empty state in `writing/index.html` with a dated link and short description of the article. No sample articles or invented writing have been published.
+Replace the empty state in `writing/index.html` with a dated link and short description of the article. Writing is currently omitted from navigation because there are no published pieces. When publishing the first piece, restore the Writing link in every page header (and mark it with `aria-current="page"` on the writing index). If the last piece is removed, remove those navigation links again. This visibility is maintained in the static HTML, without client-side fetching or JavaScript. No sample articles or invented writing have been published.
 
 ## GitHub Pages
 
