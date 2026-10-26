@@ -42,9 +42,7 @@ main { flex: 1; padding-bottom: 64px; }
   transform: translateY(-160%);
 }
 .skip-link:focus { transform: none; color: white; }
-.site-header { display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); padding: 28px 0; }
-.home-header { justify-content: flex-end; }
-.wordmark { font-size: 23px; font-weight: 600; letter-spacing: -1.1px; text-decoration: none; }
+.site-header { display: flex; align-items: center; justify-content: flex-start; border-bottom: 1px solid var(--line); padding: 28px 0; }
 nav { display: flex; align-items: center; gap: 29px; font-size: 13px; }
 nav a { text-decoration: none; color: var(--muted); padding: 5px 0; }
 nav a:hover { text-decoration: underline; }
@@ -99,7 +97,6 @@ nav a[aria-current='page'] { color: var(--green); text-decoration: underline; te
 @media (max-width: 600px) {
   .site-shell { width: calc(100% - 42px); }
   .site-header { padding: 20px 0; }
-  .wordmark { font-size: 21px; }
   nav { gap: 18px; font-size: 12px; }
   .home-intro { grid-template-columns: 1fr; gap: 30px; padding: 42px 0 40px; }
   h1 { font-size: 62px; }
