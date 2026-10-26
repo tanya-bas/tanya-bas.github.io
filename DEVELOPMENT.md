@@ -44,7 +44,7 @@ Replace the empty state in `writing/index.html` with a dated link and short desc
 
 ## GitHub Pages
 
-GitHub Pages publishes the root of the `main` branch at https://tanya-bas.github.io/ from the repository `tanya-bas/tanya-bas.github.io`.
+GitHub Pages publishes the root of the `main` branch at https://tanyabas.com/ from the repository `tanya-bas/tanya-bas.github.io`.
 
 Commit and push changes to `main` to publish an update. Check the repository’s Pages deployment status after pushing.
 

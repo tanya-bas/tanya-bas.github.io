@@ -2,7 +2,7 @@
 
 Public website for Tanya Bas, AI safety researcher.
 
-**Website:** https://tanya-bas.github.io/
+**Website:** https://tanyabas.com/
 
 ## Pages
 
